@@ -50,7 +50,7 @@ See the notebook's **Key Findings**, **Policy Implications**, and **Limitations*
 
 ```bash
 pip install wbgapi pandas numpy matplotlib seaborn scipy
-jupyter notebook Nepal_Remittance_Analysis_.ipynb
+Nepal_Remittance_Analysis_.ipynb
 ```
 
 Run all cells in order — the notebook pulls data live from the World Bank API via `wbgapi`, so an internet connection is required.
